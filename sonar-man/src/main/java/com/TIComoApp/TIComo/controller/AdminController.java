@@ -40,6 +40,7 @@ import com.TIComoApp.TIComo.repository.AdministradorRepository;
 public class AdminController {
 	static final  String ERRPWD= "errorPassword";
 	
+	
 	@Autowired
 	private AdministradorRepository adminRepository;
 		
